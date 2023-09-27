@@ -1,6 +1,3 @@
-  /*normalize*/
-  @import "vendors/normalize.css";
-
   /*base*/
   @import "base/main.css";
   @import "base/media.css";
@@ -9,7 +6,6 @@
   @import "layout/header.css";
   @import "layout/footer.css";
   @import "layout/section.css";
-  @import "layout/animations.css";
   
   /*components*/
   @import "components/menu.css";
